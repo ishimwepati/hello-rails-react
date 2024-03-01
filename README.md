@@ -76,10 +76,6 @@ Clone this repository to your desired folder:
   cd hello-rails-react
   git clone https://github.com/ishimwepati/hello-rails-react.git
 ```
-```sh
-Here is the link to my Backend Project :
-git clone https://github.com/ishimwepati/hello-rails-back-end.git
-```
 
 ### Install
 
